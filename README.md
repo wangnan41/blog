@@ -26,6 +26,8 @@
 * [前端开发者必备的Nginx知识](https://segmentfault.com/a/1190000018454271)
 * [那些很熟却又不是很熟的知识](https://segmentfault.com/a/1190000018463897)
 * [Event Loop的规范和实现](https://github.com/ProtoTeam/blog/blob/master/201801/2.md)
+* [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+
 
 
 
