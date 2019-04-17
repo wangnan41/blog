@@ -27,6 +27,7 @@
 * [那些很熟却又不是很熟的知识](https://segmentfault.com/a/1190000018463897)
 * [Event Loop的规范和实现](https://github.com/ProtoTeam/blog/blob/master/201801/2.md)
 * [这一次，彻底弄懂 JavaScript 执行机制](https://juejin.im/post/59e85eebf265da430d571f89)
+* [面试篇】寒冬求职季之你必须要懂的原生JS(上)](https://github.com/YvetteLau/Blog/issues/7)
 
 
 
